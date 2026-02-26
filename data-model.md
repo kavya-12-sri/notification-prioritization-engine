@@ -1,0 +1,5 @@
+NotificationEvent
+UserNotificationHistory
+AuditLog
+SuppressionRecord
+DeferredNotification
